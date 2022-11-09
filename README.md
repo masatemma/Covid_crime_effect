@@ -16,7 +16,7 @@ https://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_SEIFA_LGA#%5C
 
 ## Running
 `python main.py`
-- Before running the code, please ensure files are placed in the exact format as it is, and that all datasets are within the 'datasets' folder
+- Before running the code, please ensure files are placed in the exact format as it is, and unzip the datasets file before running. 
 - Files will appear in folders located in root named 'wrangled' and 'visualisations' 
 
 ## Dependencies
