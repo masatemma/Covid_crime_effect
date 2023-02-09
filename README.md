@@ -1,5 +1,5 @@
 # Covid_crime_effect
-### The purpose of this project is to find how the covid lockdowns influence rates of various crime types across areas of distinct socioeconomic status in Victoria, Australia.
+### The purpose of this collaborative project is to find how the covid lockdowns influence rates of various crime types across areas of distinct socioeconomic status in Victoria, Australia. 3 
 
 ## Data Sources
 
